@@ -23,7 +23,7 @@ vojcik@macbook:~/$ cat about_me.txt
   [⚡️] Fun Fact: I can solve a Rubik's cube in under 37 seconds.
   [🎮️] Hobby:    Gaming, especially Counter-Strike 2.
 
-vojcik@macbook:~/$ ./run_cs2.sh <a href="/Vojcik/blob/main/autoexec.cfg">--view autoexec.cfg</a></code></pre>
+vojcik@macbook:~/$ ./run_cs2.sh <a href="/Vojcik/Vojcik/blob/main/autoexec.cfg">--view autoexec.cfg</a></code></pre>
 
 ---
 
